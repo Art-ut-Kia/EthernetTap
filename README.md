@@ -5,5 +5,4 @@ Low cost ethernet Tap
 <img src="https://raw.githubusercontent.com/Art-ut-Kia/EthernetTap/master/WikiIllustrations/5-Flow%20Out%20side.jpg" width="300">
 </p>
 
-Please hev a look on the Wiki
-https://github.com/Art-ut-Kia/EthernetTap/wiki
+Please have a look on the [Wiki](https://github.com/Art-ut-Kia/EthernetTap/wiki)
